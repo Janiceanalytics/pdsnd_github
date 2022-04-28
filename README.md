@@ -35,3 +35,15 @@ load the csv data files of the 3 cities into python 3 like this:
 >` CITY_DATA = { 'chicago': 'chicago.csv', 'new york city': 'new_york_city.csv', 'washington': 'washington.csv' }` 
 
 ___
+# `Author`
+
+## Aghaukwu Janice
+
+### @janiceanalytice
+#
+___ 
+
+# `Version History`
+
+0.1 Initial Release
+___

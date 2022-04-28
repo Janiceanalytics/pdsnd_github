@@ -41,9 +41,19 @@ ___
 
 ### @janiceanalytice
 #
-___ 
-
-# `Version History`
-
-0.1 Initial Release
 ___
+# `Acknowledgments`
+
+My appreciation goes to the following instructors and platforms that helped me to complete this project successfully.
+
+## **Udacity Instructors**
+* Juno Lee
+* Richard Kalehoff
+
+
+## **Platforms**
+## [Kaggle](https://www.kaggle.com/code/deepak525/us-bike-share-analysis/notebook)
+
+
+
+## [Stackoverflow](https://stackoverflow.com/questions/47136436/python-pandas-convert-value-counts-output-to-dataframe)

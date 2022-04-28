@@ -42,6 +42,9 @@ ___
 ### @janiceanalytice
 #
 ___
+# `Licence`
+The source code in this project can be freely used. But I would appreciate acknowledging me.
+
 # `Acknowledgments`
 
 My appreciation goes to the following instructors and platforms that helped me to complete this project successfully.

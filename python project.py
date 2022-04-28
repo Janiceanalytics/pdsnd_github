@@ -104,8 +104,8 @@ def time_stats(df):
 
 
     # TO DO: display the most common day of week
-    common_dow = df['day_of_week'].value_counts().idxmax()
-    print('The most common day of week is:', common_dow)
+    common_day = df['day_of_week'].value_counts().idxmax()
+    print('The most common day of week is:', common_day)
     
 
 

@@ -26,7 +26,7 @@ def get_filters():
             city = city_name.lower()
             break
         else:
-            print("Invalid city name, please re-enter correct city name.")
+            print("Invalid input, please re-enter correct city name.")
     
 
     # TO DO: get user input for month (all, january, february, ... , june)
